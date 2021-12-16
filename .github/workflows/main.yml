@@ -29,4 +29,4 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
       - name: Start page
-        run: open https://shpr0t123.github.io/act3.github.io/index.html
+        run: https://shpr0t123.github.io/act3.github.io/index.html
