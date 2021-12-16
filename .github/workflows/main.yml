@@ -35,4 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Start page
-        run: start https://shpr0t123.github.io/act3.github.io/index.html
+        run: gnome-open https://shpr0t123.github.io/act3.github.io/index.html
